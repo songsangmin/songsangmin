@@ -35,10 +35,6 @@ I'm Sangmin Song, Flutter Developer from Ansan, Korea🇰🇷.
        style="height : auto; margin-left : 10px; margin-right:10px;"/>
 </a>
 
-<p align="center">
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=songsangmin&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide=stars,contribs&locale=kr" alt="Github stats" />
-</p>
-
 <h2> Blog & Social Network 🌎<h2>
 <a href="https://www.instagram.com/songgoori/">
     <img 
@@ -57,3 +53,9 @@ I'm Sangmin Song, Flutter Developer from Ansan, Korea🇰🇷.
         src="http://img.shields.io/badge/-Naver-black?style=flat&logo=naver&link=https://blog.naver.com/qjsrotkdals"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+</br></br>
+
+<p align="center">
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=songsangmin&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide=stars,contribs&locale=kr" alt="Github stats" />
+</p>
